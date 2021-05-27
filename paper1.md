@@ -1,7 +1,7 @@
 # Caching
 
 ## What is cache?
-Generally, cache in computer science is a small,fast storage device (or it could be a software component as well) that acts as a staging area for the data objects stored in larger, slower devives. Caching increases the read speed drastically. The using of cache is known as *cachit*.
+Generally, cache in computer science is a small,fast storage device (or it could be a software component as well) that acts as a staging area for the data objects stored in larger, slower devives. Caching increases the read speed drastically. The using of cache is known as *caching*.
 
 Cache is basically *SRAM* (Static Random Access Memory), which is a volatile memory. It means that the data is there as long as the device has power, or is turned on. 
 
